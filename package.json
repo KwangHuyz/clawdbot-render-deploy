@@ -10,7 +10,9 @@
   "keywords": ["ai", "agent", "clawdbot", "chatbot"],
   "author": "KwangHuyz",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "ws": "^8.16.0"
+  },
   "engines": {
     "node": ">=16.x"
   }

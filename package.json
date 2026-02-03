@@ -1,0 +1,17 @@
+{
+  "name": "clawdbot-agent",
+  "version": "1.0.0",
+  "description": "Clawdbot AI Agent deployed to Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["ai", "agent", "clawdbot", "chatbot"],
+  "author": "KwangHuyz",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=16.x"
+  }
+}
